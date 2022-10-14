@@ -13,23 +13,19 @@ class Solution(object):
             while indexA >= 0 and indexB >= 0:
                 valueA = a[indexA]
                 valueB = b[indexB]
-                print("A: {}, B: {}".format(valueA, valueB))
                 if (valueA == "1" and valueB == "1" ):
-                    print("here 1")
                     if (carry):
                         c.insert(0, "1")
                     else:
                         c.insert(0, "0")
                     carry = 1
                 elif (valueA == "1"  or valueB == "1" ):
-                    print("here 2")
                     if (carry):
                         c.insert(0, "0")
                         carry = 1
                     else:
                         c.insert(0, "1")
                 else:
-                    print("here 3")
                     if (carry):
                         c.insert(0, "1")
                         carry = 0
