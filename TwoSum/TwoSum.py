@@ -17,7 +17,6 @@ class Solution(object):
                     change = True
 
     def twoSum(self, nums, target):
-        #[0, 3, 3, 5]
         solution = []
         for index0 in range(len(nums)):
             for index1 in range(index0 + 1, len(nums)):
