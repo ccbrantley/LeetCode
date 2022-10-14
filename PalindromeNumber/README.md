@@ -1,1 +1,1 @@
-1[Results of Palindrome Number]()
+![Results of Palindrome Number]()
