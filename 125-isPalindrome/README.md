@@ -1,1 +1,1 @@
-!(Results of Is Palindrome)[]
+![Results of Is Palindrome]()
