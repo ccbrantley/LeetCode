@@ -1,1 +1,1 @@
-![Results of My Sqrt](https://github.com/ccbrantley/LeetCode/blob/main/MySqrt/image.png)
+![Results of My Sqrt](https://github.com/ccbrantley/LeetCode/blob/main/69-MySqrt/image.png)
