@@ -1,1 +1,1 @@
-![Results of Remove Element](https://github.com/ccbrantley/LeetCode/blob/main/RemoveElement/image.png)
+![Results of Remove Element](https://github.com/ccbrantley/LeetCode/blob/main/27-RemoveElement/image.png)
